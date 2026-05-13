@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "excel": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\Elaina.Flynn\\OneDrive - GV-WFL Boces - Edutech\\Desktop\\excel_server.py"
+      ]
+    }
+  }
+}
