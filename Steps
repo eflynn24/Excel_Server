@@ -1,7 +1,8 @@
 Steps to set up your own LLM with Custom MCP Server -
 
 pip install mcp-client-for-ollama
-ollama pull qwen2.5:7b
 python -m mcp_client_for_ollama --servers-json "your path"
 
-Nite: pip install mcp openpyxl pandas xlwings
+Note:
+pip install mcp openpyxl pandas xlwings
+ollama pull qwen2.5:7b
